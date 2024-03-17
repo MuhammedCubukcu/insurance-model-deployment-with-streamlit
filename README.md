@@ -18,3 +18,10 @@ streamlit run your_scrip.py
 
 **FEATURES = ['age', 'sex', 'bmi', 'children', 'smoker', 'southwest', 'southeast',
     'northwest', 'northeast', 'charges']**
+
+
+
+![streamlit](/images/streamlit.png)
+
+
+![streamlit](/images/streamlit_result.png)
