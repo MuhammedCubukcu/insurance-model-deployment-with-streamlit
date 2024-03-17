@@ -10,9 +10,8 @@ TRAINED_MODEL_PATH = os.path.join(PACKAGE_ROOT, "trained_models")
 
 DATA_FILE = 'insurance.csv'
 
-MODEL_NAME = 'insurance-regression-model.pkl'
+MODEL_NAME = 'my_model.h5'
 
-SAVE_MODEL_PATH = os.path.join(PACKAGE_ROOT, 'trained_models')
 
 TARGET = 'charges'
 
